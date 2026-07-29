@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestorTorneosAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+572c92b26a904affff129d936649a57e4c39971c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bb274e9002dc78874e5b3585f2eaeb1fe1864ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestorTorneosAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestorTorneosAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
